@@ -16,6 +16,6 @@ This is a weather application that fetches and displays the current weather info
 - JavaScript
 - OpenWeather API (for fetching weather data)
 
-  Check Your Weather here: <a href = "https://sarubala-msbala4455.github.io/Weather-Application-/">Weather Application</a>
+  Check Your Weather here: <a href = "https://sarubala-msbala4455.github.io/Weather-Application-/"  target="_blank">Weather Application</a>
 
   
