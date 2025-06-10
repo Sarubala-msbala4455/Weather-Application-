@@ -1,4 +1,4 @@
-# PRODIGY_WD_05
+
 # Weather Application
 
 This is a weather application that fetches and displays the current weather information for a given location using the OpenWeather API.
